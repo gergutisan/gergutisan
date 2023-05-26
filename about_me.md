@@ -1,4 +1,9 @@
-# Hi there 👋
+# About me 
+
+[gergutisan@gmail.com]()
+[LinkedIn](http://www.linkedin.com/in/german-gutierrez-3306167)
+[Google Scholar](https://scholar.google.es/citations?user=cCKt_joAAAAJ&hl=en)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=7102326496)
 
 <!--
 **gergutisan/gergutisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
