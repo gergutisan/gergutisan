@@ -92,5 +92,5 @@ PhD Academic Committee in Computer Science at UC3M
 
 ## Languages
 
-English	High-Level FCE/B2 (+200 teaching hours on Programming and Automata Theory)
+English: High-Level, FCE/B2, and +200 teaching hours on Programming (1st year) and Automata Theory (2nd year).
 
