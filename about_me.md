@@ -46,7 +46,7 @@ AI Expert and Senior Consultant at IFT Digital Labs. Provide support and working
 Working as part of a team to Also, collaborating on defining the procedures, methodology and resources for the AI Unit within IFT Digital Labs.
 
 
-### 2018(Jul)–2019(Aug) Data Scientist @ Vueling 
+### 2018(Jul)–2019(Aug) Data Scientist @ ATSistemas for Vueling 
 ![image](https://github.com/gergutisan/gergutisan/assets/506360/46dc4dc9-4f39-4f4f-b60d-1511e1435e06)
 ![image](https://github.com/gergutisan/gergutisan/assets/506360/84805fdd-560f-40a5-aae2-dc5e3c243851)
 
