@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Make the Data Confess, and let test them. AI is only good as its data" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="gergutisan_banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="gergutisan_banner.png">
+ <img alt="Make the Data Confess, and let test them. AI is only good as its data" src="gergutisan_banner.png">
 </picture>
 
 # About me 
